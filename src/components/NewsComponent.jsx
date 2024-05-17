@@ -10,7 +10,7 @@ import Sidebar from './SideBar';
 
 const NewsComponent = () => {
     const [news, setNews] = useState([]);
-    const [sample, setSample] = useState('');
+    const [sample, setSample] = useState('general');
 
 
     // const article = [
